@@ -1,2 +1,0 @@
-# Scrapy
-Projects of Scraping
